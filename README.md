@@ -1,5 +1,7 @@
 # SQL-Challenge
 
+![HewlettPakard](http://d279m997dpfwgl.cloudfront.net/wp/2014/10/hp-1000x699.jpg)
+
 ### Challenge Background
 
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
